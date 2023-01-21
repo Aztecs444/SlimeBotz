@@ -1,0 +1,357 @@
+{
+  "allcommand": [
+    "ytmp3",
+    "listsewa",
+    "listowner",
+    "auto",
+    "autovn",
+    "autosticker",
+    "chat",
+    "menu",
+    "dashboard",
+    "s",
+    "listpc",
+    "listgc",
+    "take",
+    "tourl",
+    "updatefile",
+    "groupwa",
+    "getcase",
+    "owner",
+    "mode",
+    "delsampah",
+    "runtime",
+    "linkgc",
+    "restart",
+    "duration",
+    "tiktok",
+    "play",
+    "pinterest",
+    "getfile",
+    "listjadibot",
+    "removebg",
+    "cekgay",
+    "mastah",
+    "addsewa",
+    "listcmdlimit"
+  ],
+  "anonymous": [],
+  "antispam": [],
+  "audio": {},
+  "banned": [],
+  "chats": {},
+  "dashboard": [
+    {
+      "cmd": "ytmp3",
+      "succes": 5,
+      "failed": 0
+    },
+    {
+      "cmd": "listsewa",
+      "succes": 4,
+      "failed": 0
+    },
+    {
+      "cmd": "listowner",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "auto",
+      "succes": 2,
+      "failed": 0
+    },
+    {
+      "cmd": "autovn",
+      "succes": 4,
+      "failed": 0
+    },
+    {
+      "cmd": "autosticker",
+      "succes": 4,
+      "failed": 0
+    },
+    {
+      "cmd": "chat",
+      "succes": 2,
+      "failed": 0
+    },
+    {
+      "cmd": "menu",
+      "succes": 23,
+      "failed": 0
+    },
+    {
+      "cmd": "dashboard",
+      "succes": 3,
+      "failed": 0
+    },
+    {
+      "cmd": "s",
+      "succes": 6,
+      "failed": 0
+    },
+    {
+      "cmd": "listpc",
+      "succes": 2,
+      "failed": 0
+    },
+    {
+      "cmd": "listgc",
+      "succes": 3,
+      "failed": 0
+    },
+    {
+      "cmd": "take",
+      "succes": 0,
+      "failed": 4
+    },
+    {
+      "cmd": "tourl",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "updatefile",
+      "succes": 6,
+      "failed": 0
+    },
+    {
+      "cmd": "groupwa",
+      "succes": 7,
+      "failed": 0
+    },
+    {
+      "cmd": "getcase",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "owner",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "mode",
+      "succes": 8,
+      "failed": 0
+    },
+    {
+      "cmd": "delsampah",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "runtime",
+      "succes": 3,
+      "failed": 0
+    },
+    {
+      "cmd": "linkgc",
+      "succes": 2,
+      "failed": 0
+    },
+    {
+      "cmd": "restart",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "duration",
+      "succes": 2,
+      "failed": 0
+    },
+    {
+      "cmd": "tiktok",
+      "succes": 2,
+      "failed": 0
+    },
+    {
+      "cmd": "play",
+      "succes": 2,
+      "failed": 0
+    },
+    {
+      "cmd": "pinterest",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "getfile",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "listjadibot",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "removebg",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "cekgay",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "mastah",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "addsewa",
+      "succes": 2,
+      "failed": 0
+    },
+    {
+      "cmd": "listcmdlimit",
+      "succes": 1,
+      "failed": 0
+    }
+  ],
+  "data": [
+    {
+      "name": "limit",
+      "id": [
+        "couple",
+        "bts",
+        "exo",
+        "cecan",
+        "cogan",
+        "estetic",
+        "blackpink",
+        "asupan",
+        "elf",
+        "loli",
+        "neko",
+        "waifu",
+        "shota",
+        "husbu",
+        "elaina",
+        "shinobu",
+        "kanna",
+        "megumin",
+        "art",
+        "wallnime",
+        "bully",
+        "cuddle",
+        "cry",
+        "hug",
+        "awoo",
+        "kiss",
+        "lick",
+        "pat",
+        "smug",
+        "bonk",
+        "yeet",
+        "blush",
+        "smile",
+        "wave",
+        "highfive",
+        "handhold",
+        "bite",
+        "glomp",
+        "slap",
+        "kill",
+        "happy",
+        "wink",
+        "poke",
+        "dance",
+        "cringe",
+        "feed",
+        "kuni",
+        "tickle",
+        "fox_girl",
+        "wallpaper",
+        "neko2",
+        "kiss2",
+        "smug2",
+        "waifu2",
+        "cuddle2",
+        "sagiri",
+        "cum",
+        "feet",
+        "yuri",
+        "trap",
+        "ngif",
+        "lewd",
+        "gasm",
+        "anal",
+        "holo",
+        "tits",
+        "erok",
+        "solog",
+        "feetg",
+        "lewdk",
+        "pussy",
+        "femdom",
+        "hentai",
+        "eroyuri",
+        "cum_jpg",
+        "blowjob",
+        "futanari",
+        "holoero",
+        "erokemo",
+        "chiisaihentai",
+        "yaoi",
+        "milf",
+        "ecchi",
+        "ahegao",
+        "hololewd",
+        "sideoppai",
+        "animefeets",
+        "animebooty",
+        "animearmpits",
+        "hentaifemdom",
+        "lewdanimegirls",
+        "biganimetiddies",
+        "neko3",
+        "waifu3",
+        "loli2",
+        "trap2",
+        "blowjob2",
+        "hentai2",
+        "tiktok",
+        "tiktokmp3"
+      ]
+    },
+    {
+      "name": "premium",
+      "id": [
+        "jadibot",
+        "stopjadibot",
+        "take",
+        "removebg",
+        "cariteman"
+      ]
+    }
+  ],
+  "database": {
+    "addlimit": {
+      "status": false,
+      "number": ""
+    }
+  },
+  "expired": {
+    "62895359869758@s.whatsapp.net": {
+      "owner": {},
+      "premium": {},
+      "sewa": {
+        "120363044128783911@g.us": {
+          "date": "10 Januari 2023",
+          "expired": "INFINITY"
+        }
+      },
+      "vip": {}
+    }
+  },
+  "listerror": [],
+  "menfes": [],
+  "settings": {},
+  "spammer": [],
+  "sticker": {},
+  "users": {}
+}
