@@ -2149,7 +2149,7 @@ setReply(mess.cmd.mode.public)
 sock.sendButMessage(m.chat, `MODE PUBLIK/SELF`, copyrightnya, [
 { buttonId: `${prefix + command} public/self`, buttonText: { displayText: "𝙿𝚄𝙱𝙻𝙸𝙲/𝚂𝙴𝙻𝙵" }, type: 1 },
 { buttonId: `${prefix + command} public/group`, buttonText: { displayText: "𝙿𝚄𝙱𝙻𝙸𝙲/𝙶𝚁𝙾𝚄𝙿" }, type: 1 },
-{ buttonId: `${prefix + command} public/private`, buttonText: { displayText: "𝙿𝚄𝙱𝙻𝙸𝙲/𝙿𝚁𝙸𝚅𝙰𝚃𝙴" }, type: 1 },
+{ buttonId: `${prefix + command} public/private`, buttonText: { displayText: "𝙿𝚄𝙱𝙻𝙸𝙲/𝙿𝚁𝙸𝚅𝙰𝚃𝙴" }, type: 1 }], setQuoted)
 }
 break
 case "getfile":{
