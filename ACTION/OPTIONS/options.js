@@ -18,10 +18,11 @@ global.copyright = "@Xzra" //Bebas ganti
 global.lolhumankey = "xzra" //beli di lolhuman apikeynya
 global.removebgkey = "Gk2XvZheZfmdQw85oXuwenVV" //Login di https://www.remove.bg
 global.ON = "ON" //Bebas ganti
-global.OFF = "OFF" //Bebas ganti
+global.OFF = "OFF"
+ //Bebas ganti
 global.limitAwal = 30 //limit awal user
 global.gameWaktu = 60 // 60 detik
-global.linkGroup = "https://chat.whatsapp.com/DrPOhu6srNk1BcCAuZcuTw"// Ganti aj ini botnya bakal auto join ke link yang ada
+global.linkGroup = "https://chat.whatsapp.com/Lsd4e1FNwL5JlXqxkZpzuC"// Ganti aj ini botnya bakal auto join ke link yang ada
 global.thumb = { url: "https://raw.githubusercontent.com/Aztecs444/media/Zeck/image/thumb.jpg" }
 global.thumbnaildok = { url: "https://raw.githubusercontent.com/Aztecs444/media/Zeck/image/thumbnaildokumen.jpg" }
 global.thumbnailvid = { url: "https://raw.githubusercontent.com/Aztecs444/media/Zeck/video/video.mp4" }
